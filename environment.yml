@@ -1,4 +1,4 @@
-name: Julia_sets
+name: IFS
 channels:
   - conda-forge
 dependencies:
