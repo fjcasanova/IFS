@@ -1,10 +1,4 @@
 name: IFS
-channels:
-  - conda-forge
 dependencies:
   - numpy
   - matplotlib
-  - pillow
-  - ipywidgets
-  - bqplot
-  - notebook
